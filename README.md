@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
     <head>
-       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1522581408119260"
-     crossorigin="anonymous"></script>
+     
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
